@@ -5,4 +5,4 @@ Volume 1: Rust Advanced Memory Patterns for AI. Mastering Lifetimes, Smart Point
 
 *   **Buy On ** [LeanPub.com](https://leanpub.com/RustAdvancedMemoryPatternsAI)
 *   **Buy On ** [Amazon](https://www.amazon.com/dp/B0GRVLTWT6)
-*      
+      
